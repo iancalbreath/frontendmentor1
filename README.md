@@ -24,12 +24,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/iancalbreath/frontendmentor1.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/iancalbreath/frontendmentor1.git](https://github.com/iancalbreath/frontendmentor1.git)
+- Live Site URL: [https://iancalbreath.github.io/frontendmentor1/](https://iancalbreath.github.io/frontendmentor1/)
 
 ## My process
 
-bash head against keyboard
+Self-taught with online resources listed
 
 ### Built with
 
