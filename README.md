@@ -29,7 +29,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-bash head against keyboard
+Self-taught using online resources
 
 ### Built with
 
