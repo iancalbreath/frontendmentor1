@@ -17,18 +17,18 @@ body {
 
 h2 {
     font-family: 'Outfit', sans-serif; /* applying font to headings */
-    font-size: 16px;
+    font-size: 15px;
+    font-weight: 700;
     text-align: center;
-    margin: 20px;
-    
+    padding: 0 20px;
 }
 h5 { 
     font-family: 'Outfit', sans-serif; 
-    font-size: 11px;
+    font-size: 10px;
+    font-weight: 400;
     color: hsl(220, 15%, 55%);
     text-align: center;
-    margin: 20px;
-
+    padding: 0 30px;
 }
 
 .attribution { font-size: 11px; text-align: center; }
